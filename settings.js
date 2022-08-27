@@ -36,7 +36,7 @@ global.owner = ['94776130837'] // Owner number , (අයිතිකරුගේ
 global.pemilik = ['94776130837'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94776130837'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Mr.Zithu' // Your name ඔබේ නම 
-global.botnma = '𝐄𝐗𝐄_𝐓𝐄𝐃𝐃𝐘_𝐁𝐎𝐓 🧸' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.botnma = '© TEDDY⍤⃝🧸|| BOT ❥' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝐌𝐫.𝐙𝐢𝐭𝐡𝐮' //ownernama,ownername
 global.packname = 'by mr.zithu' // Sticker package name 
 global.author = 'Mr.Zithu' // Sticker Autor name 
@@ -45,10 +45,12 @@ global.prefa = ['#','!','/','']
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alive =`Hello i am 𝐓𝐞𝐝𝐝𝐲 𝐁𝐨𝐭.
+powerd by Mr.Zithu
 
-Download song type .yt 
-Thanks fro using...`
+❧ Follow Me on Instagram- https://www.instagram.com/__induw.x_/
+✨🥀
+`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
 EXENDER || Teddy⍤⃝🧸 Bot
