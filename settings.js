@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94776130837'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94776130837'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94776130837'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Mr.Zithu' // Your name ඔබේ නම 
+global.botnma = '𝐄𝐗𝐄_𝐓𝐄𝐃𝐃𝐘_𝐁𝐎𝐓 🧸' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝐌𝐫.𝐙𝐢𝐭𝐡𝐮' //ownernama,ownername
+global.packname = 'by mr.zithu' // Sticker package name 
+global.author = 'Mr.Zithu' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -51,16 +51,16 @@ Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
-✾ Some bugs fixing
-😼♥️
+EXENDER || Teddy⍤⃝🧸 Bot
+
+powerd by Mr.Zithu
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐌𝐫.𝐙𝐢𝐭𝐡𝐮`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
